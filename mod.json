@@ -25,7 +25,7 @@
 			"name": "Amount of Icons",
 			"type": "int",
 			"min": -1000,
-			"max": 1000,
+			"max": 2147483647,
 			"default": 3
 		},
 		"hide-slider": {
